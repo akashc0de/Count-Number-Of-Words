@@ -11,7 +11,7 @@ public class CountOfWords {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		String s="subalai sambar thala thala thalapathy";
+		String s="sudalai sambar thala thala thalapathy";
 		
 		String[] ss= s.split(" ");
 		
